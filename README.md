@@ -13,3 +13,9 @@ This is for the purpose of CSC.221 Course Project 2
 
 </details>
 
+---
+> Ownership of rivers, forests, oceans, and so on has long been an issue of debate. In what sense should someone or some institution be given ownership of an algorithm?
+
+What do you think?
+
+My thought is that algorithms have primary guidelines, but the unique part of the code is what separates it from others. The unique code belongs to the creator of that code. An algorithm can also have a copyright protection, which gives ownership to the creator.
