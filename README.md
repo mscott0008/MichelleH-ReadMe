@@ -1,7 +1,7 @@
 # MichelleH-ReadMe
 My Clone Repository.
 This is for the purpose of CSC.221 Course Project 2
-<details>
+<details open>
 <summary>My top languages so far</summary>
 
 | Rank | Languages |
