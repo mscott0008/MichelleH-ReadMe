@@ -14,7 +14,7 @@ This is for the purpose of CSC.221 Course Project 2
 </details>
 
 ---
-> Ownership of rivers, forests, oceans, and so on has long been an issue of debate. In what sense should someone or some institution be given ownership of an algorithm?
+Ownership of rivers, forests, oceans, and so on has long been an issue of debate. In what sense should someone or some institution be given ownership of an algorithm?
 
 What do you think?
 
